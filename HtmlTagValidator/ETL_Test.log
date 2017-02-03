@@ -1,0 +1,100 @@
+23:00:39.246 [main] INFO   - Start
+23:00:39.791 [main] INFO   - First row is header so skipping...
+23:00:39.797 [main] INFO   - ******************************************************************************************************
+23:00:39.798 [main] INFO   - Executing Test Case No : 1.0
+23:00:40.479 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:00:40.483 [main] INFO   - Class Is : wb-entry
+23:00:40.486 [main] INFO   - Element Is : img
+23:00:40.487 [main] INFO   - Attribute Is : alt
+23:00:40.487 [main] INFO   - Actual Output : Vérification des références
+23:00:40.487 [main] INFO   - Status : PASS
+23:00:40.490 [main] INFO   - ******************************************************************************************************
+23:00:40.490 [main] INFO   - Executing Test Case No : 2.0
+23:00:41.211 [main] INFO   - Exception while executing test case row no 2
+23:00:41.215 [main] INFO   - ******************************************************************************************************
+23:00:41.215 [main] INFO   - Executing Test Case No : 3.0
+23:00:41.685 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:00:41.686 [main] INFO   - Class Is : wb-entry
+23:00:41.687 [main] INFO   - Element Is : img
+23:00:41.688 [main] INFO   - Attribute Is : alt
+23:00:41.688 [main] INFO   - Actual Output : Vérification des références
+23:00:41.688 [main] INFO   - Status : PASS
+23:00:41.689 [main] INFO   - ******************************************************************************************************
+23:00:41.689 [main] INFO   - Executing Test Case No : 4.0
+23:00:42.144 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:00:42.145 [main] INFO   - Class Is : wb-entry1
+23:00:42.146 [main] INFO   - Element Is : img
+23:00:42.146 [main] INFO   - Attribute Is : alt
+23:00:42.147 [main] INFO   - Class Not Found
+23:00:42.149 [main] INFO   - ******************************************************************************************************
+23:00:42.150 [main] INFO   - Executing Test Case No : 5.0
+23:00:42.599 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:00:42.600 [main] INFO   - Class Is : wb-entry
+23:00:42.600 [main] INFO   - Element Is : img1
+23:00:42.600 [main] INFO   - Attribute Is : alt1
+23:00:42.600 [main] INFO   - Tag Not Found
+23:00:42.601 [main] INFO   - ******************************************************************************************************
+23:00:42.602 [main] INFO   - Executing Test Case No : 6.0
+23:00:43.042 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:00:43.045 [main] INFO   - Class Is : wb-entry
+23:00:43.045 [main] INFO   - Element Is : img
+23:00:43.046 [main] INFO   - Attribute Is : alt1
+23:00:43.046 [main] INFO   - Attribute Not Found
+23:00:43.051 [main] INFO   - ******************************************************************************************************
+23:00:43.051 [main] INFO   - Executing Test Case No : 7.0
+23:00:43.569 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:00:43.570 [main] INFO   - Class Is : wb-entry
+23:00:43.571 [main] INFO   - Element Is : img
+23:00:43.571 [main] INFO   - Attribute Is : alt
+23:00:43.571 [main] INFO   - Actual Output : Vérification des références
+23:00:43.572 [main] INFO   - Status : PASS
+23:07:20.523 [main] INFO   - Start
+23:07:21.063 [main] INFO   - First row is header so skipping...
+23:07:21.070 [main] INFO   - ******************************************************************************************************
+23:07:21.070 [main] INFO   - Executing Test Case No : 1.0
+23:07:21.796 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:07:21.800 [main] INFO   - Class Is : wb-entry
+23:07:21.803 [main] INFO   - Element Is : img
+23:07:21.803 [main] INFO   - Attribute Is : alt
+23:07:21.803 [main] INFO   - Actual Output : Vérification des références
+23:07:21.804 [main] INFO   - Status : PASS
+23:07:21.807 [main] INFO   - ******************************************************************************************************
+23:07:21.807 [main] INFO   - Executing Test Case No : 2.0
+23:07:22.548 [main] INFO   - Exception while executing test case row no 2
+23:07:22.553 [main] INFO   - ******************************************************************************************************
+23:07:22.555 [main] INFO   - Executing Test Case No : 3.0
+23:07:23.030 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:07:23.031 [main] INFO   - Class Is : wb-entry
+23:07:23.032 [main] INFO   - Element Is : img
+23:07:23.032 [main] INFO   - Attribute Is : alt
+23:07:23.032 [main] INFO   - Actual Output : Vérification des références
+23:07:23.032 [main] INFO   - Status : PASS
+23:07:23.033 [main] INFO   - ******************************************************************************************************
+23:07:23.033 [main] INFO   - Executing Test Case No : 4.0
+23:07:23.494 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:07:23.495 [main] INFO   - Class Is : wb-entry1
+23:07:23.495 [main] INFO   - Element Is : img
+23:07:23.496 [main] INFO   - Attribute Is : alt
+23:07:23.496 [main] INFO   - Class Not Found
+23:07:23.502 [main] INFO   - ******************************************************************************************************
+23:07:23.503 [main] INFO   - Executing Test Case No : 5.0
+23:07:23.937 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:07:23.938 [main] INFO   - Class Is : wb-entry
+23:07:23.938 [main] INFO   - Element Is : img1
+23:07:23.938 [main] INFO   - Attribute Is : alt1
+23:07:23.939 [main] INFO   - Tag Not Found
+23:07:23.940 [main] INFO   - ******************************************************************************************************
+23:07:23.940 [main] INFO   - Executing Test Case No : 6.0
+23:07:24.383 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:07:24.385 [main] INFO   - Class Is : wb-entry
+23:07:24.385 [main] INFO   - Element Is : img
+23:07:24.386 [main] INFO   - Attribute Is : alt1
+23:07:24.386 [main] INFO   - Attribute Not Found
+23:07:24.392 [main] INFO   - ******************************************************************************************************
+23:07:24.392 [main] INFO   - Executing Test Case No : 7.0
+23:07:24.851 [main] INFO   - Checking Url : http://www.sterlingtalentsolutions.ca/ca-fr/blogue/2016/october/verification-des-references-ca-vaut-la-peine/
+23:07:24.852 [main] INFO   - Class Is : wb-entry
+23:07:24.852 [main] INFO   - Element Is : img
+23:07:24.852 [main] INFO   - Attribute Is : alt
+23:07:24.852 [main] INFO   - Actual Output : Vérification des références
+23:07:24.853 [main] INFO   - Status : PASS
