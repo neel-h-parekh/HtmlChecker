@@ -153,7 +153,6 @@ public class TagValidator
 		{
 			logger.info("Exception in main");
 			e.printStackTrace();
-			e.printStackTrace();
 		}
 	}
 }
